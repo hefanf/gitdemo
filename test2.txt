@@ -1,1 +1,2 @@
 This is test2.txt
+A newline in debug branch
