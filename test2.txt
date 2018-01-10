@@ -1,2 +1,5 @@
 This is test2.txt
+This is a line from user2
 A newline in debug branch
+
+Another line from user2
